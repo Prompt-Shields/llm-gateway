@@ -4,7 +4,7 @@
 > - **Upstream:** [nishatdhillon/llm-gateway](https://github.com/nishatdhillon/llm-gateway)
 > - **Why it is here:** prior-art evaluation while designing our own gateway. **An LLM gateway is a proxy on the HTTP path between an application and a model provider, so that calls can be observed, rate-limited, and policy-checked without modifying the application.**
 > - **Status:** evaluation copy, not maintained. The gateway we actually ship is in
->   [Bit-Pulse-AI/prompt-shields-sdk](https://github.com/Bit-Pulse-AI/prompt-shields-sdk) under `gateway/`. Use that one.
+>   [Prompt-Shields/prompt-shields-sdk](https://github.com/Prompt-Shields/prompt-shields-sdk) under `gateway/`. Use that one.
 > - **Vulnerabilities:** report to upstream, not here. For Prompt Shields products, email security@promptshields.com.
 
 ---
